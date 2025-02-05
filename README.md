@@ -9,7 +9,7 @@ Live demo: ```TODO: do the better video```
 
 ## Install
 
-watch this: <https://www.youtube.com/watch?v=Arsw6quCMcA>
+watch this: https://www.youtube.com/watch?v=IDTaRST0W-Y
 
 ## Dev 
 
