@@ -1,6 +1,6 @@
 # Snap Captions Davinci Resolve
 
-Live demo: ```TODO: do the better video```
+Live demo: ```TODO: better video```
 
 - Add more text styles for Snap Captions
 - What's Snap Captions? -> https://youtu.be/fOQ7VA7nwxM?si=jyKmQOjcm1zv6g1A
